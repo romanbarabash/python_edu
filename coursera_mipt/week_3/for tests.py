@@ -1,0 +1,2 @@
+PRODUCT_PRICE_AMOUNT = "{0:.2f}".format(11)
+print(PRODUCT_PRICE_AMOUNT)
